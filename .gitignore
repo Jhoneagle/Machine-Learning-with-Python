@@ -10,6 +10,7 @@ scripts/
 pip-selfcheck.json
 share/
 *.xml
+*.xls
 *.csv
 *.rar
 venv/
